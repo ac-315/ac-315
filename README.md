@@ -1,16 +1,26 @@
-## Hi there 👋
+# How are you?
+## A little bit about me:
+Current Student at Lane Tech in Chicago (aka greatest school ever)
+I live in the greatest city in the world (Chicago)
 
-<!--
-**ac-315/ac-315** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Trying to learn python at the moment, its not bad
+*at least for now,*
 
-Here are some ideas to get you started:
+## Some cool projects I think you should check out:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p><img src="img\apache.svg" style="width:130px;" ></p> 
+Apache Webserver ~  https://github.com/apache/httpd
+<p><p>
+<p><p>
+<p><img src="img\opencomic.png" style="width:100px;height:100px;" ></p> 
+Opencomic ~ https://github.com/ollm/OpenComic
+<p><p>
+<p><p>
+*the calibre image broke, so you can cry for the moment while my laptop dies*
+<p><p>
+Calibre ~ https://github.com/kovidgoyal/calibre
+<p><p>
+<p><p>
+<p><img src="img\ytdlp.png" style="width:100px;height100px;" ></p> 
+yt-dlp ~ https://github.com/yt-dlp/yt-dlp
+
